@@ -48,7 +48,11 @@ This project boosted my ability to write optimized JOINs, GROUP BY, and aggregat
 
 I plan to visualize this Swiggy dataset using Power BI or Tableau to present the findings more interactively and include dashboards in my portfolio.
 
-🔗 Check out more of my work: 👉 GitHub.com/nikhiltake
+If you have any suggestions, improvements, or want to collaborate on similar projects, feel free to connect! 🚀
+
+🔗 GitHub Profile:https://github.com/nikhiltake
+
+🔗 LinkedIn: www.linkedin.com/in/nikhil-take-ab26aa270
 
 💬 I’d love to hear your thoughts! If you're working with SQL or doing similar analysis projects — let’s connect and grow together. 🌱
 
